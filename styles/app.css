@@ -45,7 +45,7 @@ a { text-decoration: none; }
 /** UTILITIES **/
 .container {
     margin: 2rem auto;
-    max-width: 120rem;
+    max-width: 100rem;
 }
 
 .bg-nav { background-color: var(--secundary); }
