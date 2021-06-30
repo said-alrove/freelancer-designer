@@ -8,10 +8,10 @@ First project from Juan Pablo's course of Web Development.
 ![](readme/lighthouse.png)
 
 ### Open Graph Facebook
-![](readme/facebook)
+![](readme/facebook.png)
 
 ### Open Graph Twitter
-![](readme/twitter)
+![](readme/twitter.png)
 
 ## What I learnt
 Coming soon...
