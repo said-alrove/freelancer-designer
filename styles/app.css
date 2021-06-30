@@ -1,10 +1,11 @@
 /** VARIABLES **/
 :root {
+    /** COLORS **/
     --primary: #FFC107;
     --secundary: #0097A7;
 
-    --gray-100: #757575;
-
+    /** NEUTRALS **/
+    --gray: #757575;
     --white: #FFF;
     --black: #212121;
 }
@@ -207,7 +208,7 @@ main.container {
     width: min(60rem, 100%); 
     padding: 2rem;
     border-radius: 1rem;
-    background-color: var(--gray-100);
+    background-color: var(--gray);
 }
 
 .form fieldset { border: none; }
