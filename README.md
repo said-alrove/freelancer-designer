@@ -4,6 +4,9 @@ First project from Juan Pablo's course of Web Development.
 ## Project's preview
 ![](readme/screenshot.png)
 
+## What I learnt
+Coming soon...
+
 ### Lighthouse
 ![](readme/lighthouse.png)
 
@@ -12,6 +15,3 @@ First project from Juan Pablo's course of Web Development.
 
 ### Open Graph Twitter
 ![](readme/twitter.png)
-
-## What I learnt
-Coming soon...
