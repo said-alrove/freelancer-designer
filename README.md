@@ -1,5 +1,5 @@
 # freelancer-home
-First project from Juan Pablo's course of Web Development.
+The first project from Juan Pablo's course of Web Development.
 
 ## Project's preview
 ![](readme/screenshot.png)
