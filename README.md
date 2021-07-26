@@ -1,4 +1,4 @@
-# freelancer-home
+# [freelancer-home](https://said-alrove.github.io/freelancer-home/)
 The first project from Juan Pablo's course of Web Development.
 
 ## Project's preview
