@@ -1,4 +1,4 @@
-# [freelancer-home](https://said-alrove.github.io/freelancer-home/)
+# [freelancer-designer](https://said-alrove.github.io/freelancer-designer/)
 This is the first project from Juan Pablo's course of [Web Development](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
 
 > **Disclaimer:** I'm starting to learn how to use **Git/Github** correctly, therefore there'll be plenty of pull requests, commits and other stuff as tests in this repository, however, *this won't represent my way of working forever*, I'll learn more things along the way as always :D!.
