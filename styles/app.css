@@ -82,10 +82,10 @@ a { text-decoration: none; }
 }
 
 /** STATES **/
-.is-hidden { overflow: hidden; }
+.is-hidden { display: none; }
 
 @media (min-width: 768px) {
-    .is-hidden { overflow: initial; }
+    .is-hidden { display: initial; }
 }
 
 /** TYPOGRAPHY **/
