@@ -32,7 +32,7 @@ This is the first project from Juan Pablo's course of [Web Development](https://
 
 * And of course I also learned how to use the scroll-bar effect with the different properties that we have (I just used a few of them, I'll use more of them in more advanced projects). [Here](https://blog.logrocket.com/how-to-use-css-scroll-snap/#:~:text=How%20CSS%20Scroll%20Snap%20works.%20CSS%20Scroll%20Snap,%7B%20scroll-snap-type%3A%20%5B%20x%20%7C%20y%20%7C%20) is an interested article about some scroll properties.
 
-> **P.D.** I configured the formulario in this project to allow Netlify to handle all the stuff related to it and now it's possible to send a message from the formulario (I'll receive a notification in the Netlify's dashboard and in my personal Gmail with all the data's fields). I'll continue adding more features like this one in future projects!.
+> **P.D.** I configured the formulario in this project to allow [**Netlify**](https://docs.netlify.com/forms/setup/) to handle all the stuff related to it and now it's possible to send a message from the formulario (I'll receive a notification in the Netlify's dashboard and in my personal Gmail with all the data's fields). I'll continue adding more features like this one in future projects!.
 
 ## Reports
 
