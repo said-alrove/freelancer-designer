@@ -230,7 +230,7 @@ main.container {
 
 @media (min-width: 768px) {
     .container__fields {
-        grid: repeat(2, auto) 20rem / repeat(2, 1fr);
+        grid: repeat(2, auto) 24rem auto / repeat(2, 1fr);
     }
 
     .field:nth-child(3),
@@ -269,7 +269,7 @@ main.container {
 
 @media (min-width: 768px) {
     .form input[type="submit"] { 
-        margin-top: 4rem; 
+        margin-top: 0; 
         width: auto;
     }
 }
