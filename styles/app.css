@@ -81,6 +81,13 @@ a { text-decoration: none; }
     background-color: var(--white);
 }
 
+/** STATES **/
+.is-hidden { overflow: hidden; }
+
+@media (min-width: 768px) {
+    .is-hidden { overflow: initial; }
+}
+
 /** TYPOGRAPHY **/
 h1 { font-size: 3.8rem; }
 
