@@ -142,7 +142,7 @@
             <!-- FORM -->
             <section>
                 <h2>Contact</h2>
-                <form class="form">
+                <form class="form" data-netlify="true" data-netlify-recaptcha="true">
                     <fieldset>
                         <legend>Contact me by filling the fields</legend>
                         <div class="container__fields">
@@ -162,6 +162,11 @@
                                 <label fot="txt-area">Message</label>
                                 <textarea name="txt-area" placeholder="Write Something..."></textarea>
                             </div> <!-- .FIELD -->
+                            <div 
+                                class="field" 
+                                data-netlify-recaptcha="true"
+                                style="transform:scale(.75);">
+                            </div>
                         </div> <!-- .CONTAINER__FIELDS -->
                         <div class="form-footer">
                             <input type="submit" class="button" value="Send Form">
